@@ -44,7 +44,3 @@ float easedValue = Easing.SetEasingByEaseType(EaseType.InOutQuad, timeValue);
 ## License
 
 This utility is released under the MIT License, permitting free use, modification, and distribution within your projects.
-
----
-
-Please review and let me know if there's anything else you need!
