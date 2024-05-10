@@ -1,6 +1,6 @@
 {
   "name": "com.klazapp.easing",
-  "displayName": "Unity Easing",
+  "displayName": "Unity Easing Private",
   "version": "1.0.0",
   "unity": "2022.3",
   "description": "Integrate advanced easing functions into your Unity projects with Klazapp's Easing Functions package. Featuring a wide array of easing types from linear to complex bounces, this toolkit enhances your animations with smooth, professional-grade transitions easily configurable via an enum-based system.",
